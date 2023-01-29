@@ -6,4 +6,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writi
+Markdown is a lightweight and easy-to-use syntax for styling your writiBaripada is Good City
